@@ -181,6 +181,7 @@ Using my "image_process()" function to ally the lane detection function on sampl
 The Project was pretty easy, because we've done all steps in excersises and I had to do all of them together, but was really funny.
 These situations could cause problems:
 
+   - I have problem with shadow!
    - if a car in front of ego vehicle change the lane (entering or leaving): here we need some algorithm to detect the moving object
    - if the lane color quality is not good, then detection would be more challenging
    - if the road quality is not good to identify the lane
